@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
+  "version": "1.0.4",
+  "versionCode": 5,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 修复商品管理页面分页加载问题\n- 修复确认收款页面活动订单金额显示错误\n- 移除商品视频上传时长限制\n- 优化APP更新检测体验，增加状态反馈\n- 修复商品列表加载到底部重复加载闪烁问题",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.3/app-release.apk"
+  "changelog": "- 修复商品管理页面分页加载问题\n- 修复确认收款页面活动订单金额显示错误\n- 移除商品视频上传时长限制\n- 优化APP更新检测体验，增加状态反馈\n- 修复商品列表加载到底部重复加载闪烁问题\n- 修复录制视频闪退问题（添加录音权限）",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.4/app-release.apk"
 }

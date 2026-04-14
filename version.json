@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
-  "versionCode": 7,
+  "version": "1.0.7",
+  "versionCode": 8,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 新增订单支付方式标签（线下/电子支付，细分支付宝/微信/信用卡/银联/转数快）\n- 订单列表新增「待收货(物流)」「待收货(自提)」两个 tab\n- 修复首页订单 tab 跳转时数据串显示的问题\n- 修复首页「待发货」计数与列表不一致的问题\n- 订单列表价格区溢出修复（改为纵向排列）\n- 修复在线支付成功后飞书通知显示错误",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.6/app-release.apk"
+  "changelog": "- 首页订单管理看板扩展为 6 张卡片，与订单列表 tab 对应（新增待收货(物流)/待收货(自提)入口）\n- 自提订单在待提货前，支付状态显示为「待付款」",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.7/app-release.apk"
 }

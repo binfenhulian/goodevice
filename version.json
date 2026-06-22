@@ -1,8 +1,8 @@
 {
-  "version": "1.0.7",
-  "versionCode": 8,
+  "version": "1.0.8",
+  "versionCode": 9,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 首页订单管理看板扩展为 6 张卡片，与订单列表 tab 对应（新增待收货(物流)/待收货(自提)入口）\n- 自提订单在待提货前，支付状态显示为「待付款」",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.7/app-release.apk"
+  "changelog": "- 商品发布/编辑页新增「关联资讯」功能，可关联最多 5 篇论坛资讯到商品详情页\n- 关联资讯支持搜索 + 系统自动推荐（根据商品名关键词匹配）",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.8/app-release.apk"
 }

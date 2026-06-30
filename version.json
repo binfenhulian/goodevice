@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
-  "versionCode": 9,
+  "version": "1.0.9",
+  "versionCode": 10,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 商品发布/编辑页新增「关联资讯」功能，可关联最多 5 篇论坛资讯到商品详情页\n- 关联资讯支持搜索 + 系统自动推荐（根据商品名关键词匹配）",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.8/app-release.apk"
+  "changelog": "- 首頁新增「掃碼核銷」入口，可掃描用戶會員二維碼扣除論壇積分\n- 商家掃碼後輸入扣分數量和理由，用戶會收到站內信通知\n- 單次扣分上限 1000 分，扣分明細在管理後台可查\n- 配合積分系統升級：商城下單抵扣已切換到論壇積分",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.9/app-release.apk"
 }

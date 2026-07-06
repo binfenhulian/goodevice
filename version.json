@@ -1,8 +1,8 @@
 {
-  "version": "1.0.9",
-  "versionCode": 10,
+  "version": "1.0.10",
+  "versionCode": 11,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 首頁新增「掃碼核銷」入口，可掃描用戶會員二維碼扣除論壇積分\n- 商家掃碼後輸入扣分數量和理由，用戶會收到站內信通知\n- 單次扣分上限 1000 分，扣分明細在管理後台可查\n- 配合積分系統升級：商城下單抵扣已切換到論壇積分",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.9/app-release.apk"
+  "changelog": "- 訂單列表與訂單詳情：線上支付訂單的總金額現已包含在線支付手續費，金額顯示更準確",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.10/app-release.apk"
 }

@@ -1,8 +1,8 @@
 {
-  "version": "1.0.10",
-  "versionCode": 11,
+  "version": "1.0.11",
+  "versionCode": 12,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 訂單列表與訂單詳情：線上支付訂單的總金額現已包含在線支付手續費，金額顯示更準確",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.10/app-release.apk"
+  "changelog": "- 拍賣可設定每次加時分鐘及次數上限，開始後鎖定規則\n- 無人出價的已結束拍賣可重新發布，修改起拍價與時間",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.11/app-release.apk"
 }

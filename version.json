@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
-  "versionCode": 13,
+  "version": "1.0.13",
+  "versionCode": 14,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 修復競拍、團購及劈價活動僅顯示前 50 條的問題，可繼續載入較早記錄\n- 加入載入更多及失敗重試，切換分頁不混入其他活動記錄",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.12/app-release.apk"
+  "changelog": "- 營銷活動支援按商品名稱或活動 ID 搜尋\n- 競拍、拼團及劈價支援全部、未開始、進行中、已結束及已下架篩選\n- 搜尋和篩選支援全部歷史記錄及分頁載入",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.13/app-release.apk"
 }

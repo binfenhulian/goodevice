@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
-  "versionCode": 14,
+  "version": "1.0.14",
+  "versionCode": 15,
   "minVersion": "1.0.0",
   "forceUpdate": false,
-  "changelog": "- 營銷活動支援按商品名稱或活動 ID 搜尋\n- 競拍、拼團及劈價支援全部、未開始、進行中、已結束及已下架篩選\n- 搜尋和篩選支援全部歷史記錄及分頁載入",
-  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.13/app-release.apk"
+  "changelog": "- 活動記錄的聯絡電話旁加入複製號碼按鈕\n- 營銷活動商品圖片可點擊放大、縮放查看\n- 競拍、拼團及劈價均支援",
+  "downloadUrl": "https://github.com/binfenhulian/goodevice/releases/download/v1.0.14/app-release.apk"
 }
